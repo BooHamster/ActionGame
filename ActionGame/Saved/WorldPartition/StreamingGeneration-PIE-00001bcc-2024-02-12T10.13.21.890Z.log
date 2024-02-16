@@ -1,0 +1,154 @@
+[+] Containers:
+ |- [+] Container: /Game/TestausTaso/Testaus
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:17D7EF6745C10AC67307F298EFBD88FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_902E1691980112A401_1705315516 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6905.000 Y=670.556 Z=-7809.000), Max=(X=5095.000 Y=1029.444 Z=-7809.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:2024FD8644D6EC0AE4C54B8FD589AEB1 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801A1B101_1095671448 Label:TileSet_Tiles2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1435.000 Y=429.000 Z=-7811.000), Max=(X=-595.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:244E17BB4EF97CC1788C168CCBF5AAF3 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1879744558 Label:BP_Enemy2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3755.240 Y=974.200 Z=-7828.922), Max=(X=3778.500 Y=1007.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2A77225048D5ACA778B6529CF560E98E BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1887100559 Label:BP_Enemy3 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3756.240 Y=879.200 Z=-7828.922), Max=(X=3779.500 Y=912.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2B6FB7D64F1A4EBCA83DC197EADEE780 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E169198019EB101_1124801911 Label:TileSet_Tiles1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-595.000 Y=428.000 Z=-7811.000), Max=(X=245.000 Y=1040.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:2D5C727B464A4B8EED6AF7831116B10E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_902E16919801F2B001_1594163607 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:27DDF48F481B2EC0EA814B9FEEBFA08E
+ |   |   |- Guid:36C4FE9A4CBD3CD6C95291BE81AEF873 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E16919801A0B101_2023573271 Label:BlockingVolume5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5920.000 Y=882.000 Z=-7809.000), Max=(X=-5916.000 Y=1132.000 Z=-7509.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:39028573442F4238F10DF29C3AFABB0E BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_902E16919801E8A601-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:3F150D2842076D2043DA73BDA43216F4 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1896341561 Label:BP_Enemy5 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3634.240 Y=877.200 Z=-7816.922), Max=(X=3657.500 Y=910.800 Z=-7737.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5841C094415C84DA6E1960B75D129FAD BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198011DAF01_2023337066 Label:BlockingVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4136.000 Y=881.000 Z=-7809.000), Max=(X=4140.000 Y=1131.000 Z=-7509.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5B764A0D4DE92E88FC77F3975333874F BaseClass:/Game/Enemies/BP_FirstBoss.BP_FirstBoss_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_FirstBoss_C_UAID_902E1691980198BA01_1851804328 Label:BP_FirstBoss SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3777.375 Y=948.400 Z=-7840.782), Max=(X=3880.200 Y=1019.200 Z=-7737.218) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:60B207674F7FA6C41F2116AA5D2F98D8 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E1691980197B101_1856072652 Label:BP_Enemy11 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3282.240 Y=964.200 Z=-7828.922), Max=(X=3305.500 Y=997.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:656C5DE24F3C7EC43FB77A939C57FC06 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801F6B001_2048804320 Label:TileSetGrass3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1868.000 Y=429.000 Z=-7811.000), Max=(X=2708.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:6F75B9934D530ADA539967BFD6B3D1BB BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1312734648 Label:BP_Enemy7 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3156.000 Y=965.600 Z=-7809.000), Max=(X=3209.800 Y=1010.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:73C588C94592C94E1A8982AFF2C9BAF6 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1891628560 Label:BP_Enemy4 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3633.240 Y=974.200 Z=-7816.922), Max=(X=3656.500 Y=1007.800 Z=-7737.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7CAB04CC414A194356D805AF72F63AC5 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E1691980160AA01_1698749575 Label:BlockingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10853.000 Y=861.000 Z=-7809.000), Max=(X=9147.000 Y=865.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7F0F25C8458810EE9EFB36AEF8420CD9 BaseClass:/Game/Enemies/BP_Enemy4.BP_Enemy4_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy4_C_UAID_902E169198019DB101_1912944712 Label:BP_Enemy9 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1903.000 Y=939.600 Z=-7809.000), Max=(X=1956.800 Y=984.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8B80445E47DB24F5CA03638A996849CD BaseClass:/Game/TestausHahmo/BP_Character.BP_Character_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Character_C_UAID_902E1691980138A201_1079428087 Label:BP_Character SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4074.200 Y=878.300 Z=-7872.925), Max=(X=4285.078 Y=956.300 Z=-7705.275) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A25037E6428456163739FD8B90BBA99B BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801F6B001_1824765318 Label:TileSetGrass2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2708.000 Y=429.000 Z=-7811.000), Max=(X=3548.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A9A279874EF721DE2C78FCA4CA382594 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_902E16919801E8A601_1224383288 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6056.010 Y=173.191 Z=-8334.000), Max=(X=4193.990 Y=1423.191 Z=-7284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:AC03B3DB4D16A5B0424C9BA793735515 BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1281114647 Label:BP_Enemy6 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3306.000 Y=868.600 Z=-7809.000), Max=(X=3359.800 Y=913.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B11E52BD4FAA85254315CF8E6DC634AB BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801FAB001_1827039026 Label:TileSetGrass5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=246.000 Y=430.000 Z=-7811.000), Max=(X=1086.000 Y=1042.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B45C802740FDA0C22FB5BDA73D922A91 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E1691980197B101_1860330653 Label:BP_Enemy12 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2809.240 Y=881.200 Z=-7828.922), Max=(X=2832.500 Y=914.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B603194A4D0E9AC615843EA0A99BD577 BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1317692649 Label:BP_Enemy8 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2962.000 Y=918.600 Z=-7809.000), Max=(X=3015.800 Y=963.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:B76AD3C345A388C83EA651A742AE3F08 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E169198011DAF01_1948172065 Label:BP_Enemy1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3855.240 Y=908.200 Z=-7828.922), Max=(X=3878.500 Y=941.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:C262B7134362A4016AC21BA582F681CA BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801BBBA01_2084073487 Label:Tileset_slums1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3548.000 Y=429.000 Z=-7811.000), Max=(X=4348.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:CC9EB3C849672EF1F1C6FE99816406FD BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_902E169198018ED801_2067774249 Label:Sky3_Sprite SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1528.000 Y=1037.000 Z=-7751.000), Max=(X=4648.000 Y=1277.000 Z=-7741.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D244F033455CF3C838B1BDB9CBDD2EC4 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801FAB001_1745584025 Label:TileSetGrass4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1028.000 Y=430.000 Z=-7811.000), Max=(X=1868.000 Y=1042.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:D339225841CD1DF8A1B8458376D0E27D BaseClass:/Game/TestausHahmo/BP_Camera.BP_Camera_C NativeClass:/Script/Engine.Actor Name:BP_Camera_C_UAID_902E16919801D7C301_2110055920 Label:BP_Camera SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3965.000 Y=943.000 Z=-7607.000), Max=(X=4125.000 Y=1103.000 Z=-7367.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E2E322184E2197B7ED9F0BBEAEB8CA03 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198018CAD01_1613961493 Label:BlockingVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10852.000 Y=1053.000 Z=-7809.000), Max=(X=9148.000 Y=1057.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:FC1DBAC24F252FBB70951B893267B164 BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1844385651 Label:BP_Enemy10 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2805.000 Y=968.600 Z=-7809.000), Max=(X=2858.800 Y=1013.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:36C4FE9A4CBD3CD6C95291BE81AEF873 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E16919801A0B101_2023573271 Label:BlockingVolume5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5920.000 Y=882.000 Z=-7809.000), Max=(X=-5916.000 Y=1132.000 Z=-7509.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:73C588C94592C94E1A8982AFF2C9BAF6 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1891628560 Label:BP_Enemy4 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3633.240 Y=974.200 Z=-7816.922), Max=(X=3656.500 Y=1007.800 Z=-7737.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:B11E52BD4FAA85254315CF8E6DC634AB BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801FAB001_1827039026 Label:TileSetGrass5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=246.000 Y=430.000 Z=-7811.000), Max=(X=1086.000 Y=1042.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:FC1DBAC24F252FBB70951B893267B164 BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1844385651 Label:BP_Enemy10 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2805.000 Y=968.600 Z=-7809.000), Max=(X=2858.800 Y=1013.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:2024FD8644D6EC0AE4C54B8FD589AEB1 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801A1B101_1095671448 Label:TileSet_Tiles2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1435.000 Y=429.000 Z=-7811.000), Max=(X=-595.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:D339225841CD1DF8A1B8458376D0E27D BaseClass:/Game/TestausHahmo/BP_Camera.BP_Camera_C NativeClass:/Script/Engine.Actor Name:BP_Camera_C_UAID_902E16919801D7C301_2110055920 Label:BP_Camera SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3965.000 Y=943.000 Z=-7607.000), Max=(X=4125.000 Y=1103.000 Z=-7367.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:D244F033455CF3C838B1BDB9CBDD2EC4 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801FAB001_1745584025 Label:TileSetGrass4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1028.000 Y=430.000 Z=-7811.000), Max=(X=1868.000 Y=1042.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:A9A279874EF721DE2C78FCA4CA382594 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_902E16919801E8A601_1224383288 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6056.010 Y=173.191 Z=-8334.000), Max=(X=4193.990 Y=1423.191 Z=-7284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:5841C094415C84DA6E1960B75D129FAD BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198011DAF01_2023337066 Label:BlockingVolume SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4136.000 Y=881.000 Z=-7809.000), Max=(X=4140.000 Y=1131.000 Z=-7509.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:B45C802740FDA0C22FB5BDA73D922A91 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E1691980197B101_1860330653 Label:BP_Enemy12 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2809.240 Y=881.200 Z=-7828.922), Max=(X=2832.500 Y=914.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:244E17BB4EF97CC1788C168CCBF5AAF3 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1879744558 Label:BP_Enemy2 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3755.240 Y=974.200 Z=-7828.922), Max=(X=3778.500 Y=1007.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:AC03B3DB4D16A5B0424C9BA793735515 BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1281114647 Label:BP_Enemy6 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3306.000 Y=868.600 Z=-7809.000), Max=(X=3359.800 Y=913.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:C262B7134362A4016AC21BA582F681CA BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801BBBA01_2084073487 Label:Tileset_slums1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3548.000 Y=429.000 Z=-7811.000), Max=(X=4348.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:3F150D2842076D2043DA73BDA43216F4 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1896341561 Label:BP_Enemy5 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3634.240 Y=877.200 Z=-7816.922), Max=(X=3657.500 Y=910.800 Z=-7737.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:2A77225048D5ACA778B6529CF560E98E BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E16919801FDB001_1887100559 Label:BP_Enemy3 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3756.240 Y=879.200 Z=-7828.922), Max=(X=3779.500 Y=912.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:6F75B9934D530ADA539967BFD6B3D1BB BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1312734648 Label:BP_Enemy7 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3156.000 Y=965.600 Z=-7809.000), Max=(X=3209.800 Y=1010.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:7CAB04CC414A194356D805AF72F63AC5 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E1691980160AA01_1698749575 Label:BlockingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10853.000 Y=861.000 Z=-7809.000), Max=(X=9147.000 Y=865.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:A25037E6428456163739FD8B90BBA99B BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801F6B001_1824765318 Label:TileSetGrass2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2708.000 Y=429.000 Z=-7811.000), Max=(X=3548.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:5B764A0D4DE92E88FC77F3975333874F BaseClass:/Game/Enemies/BP_FirstBoss.BP_FirstBoss_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_FirstBoss_C_UAID_902E1691980198BA01_1851804328 Label:BP_FirstBoss SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3777.375 Y=948.400 Z=-7840.782), Max=(X=3880.200 Y=1019.200 Z=-7737.218) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:B76AD3C345A388C83EA651A742AE3F08 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E169198011DAF01_1948172065 Label:BP_Enemy1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3855.240 Y=908.200 Z=-7828.922), Max=(X=3878.500 Y=941.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:2D5C727B464A4B8EED6AF7831116B10E BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_902E16919801F2B001_1594163607 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 FolderPath:Lighting FolderGuid:27DDF48F481B2EC0EA814B9FEEBFA08E
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:E2E322184E2197B7ED9F0BBEAEB8CA03 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198018CAD01_1613961493 Label:BlockingVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10852.000 Y=1053.000 Z=-7809.000), Max=(X=9148.000 Y=1057.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:17D7EF6745C10AC67307F298EFBD88FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_902E1691980112A401_1705315516 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-6905.000 Y=670.556 Z=-7809.000), Max=(X=5095.000 Y=1029.444 Z=-7809.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:7F0F25C8458810EE9EFB36AEF8420CD9 BaseClass:/Game/Enemies/BP_Enemy4.BP_Enemy4_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy4_C_UAID_902E169198019DB101_1912944712 Label:BP_Enemy9 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1903.000 Y=939.600 Z=-7809.000), Max=(X=1956.800 Y=984.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:39028573442F4238F10DF29C3AFABB0E BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_902E16919801E8A601-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:8B80445E47DB24F5CA03638A996849CD BaseClass:/Game/TestausHahmo/BP_Character.BP_Character_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Character_C_UAID_902E1691980138A201_1079428087 Label:BP_Character SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=4074.200 Y=878.300 Z=-7872.925), Max=(X=4285.078 Y=956.300 Z=-7705.275) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:60B207674F7FA6C41F2116AA5D2F98D8 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E1691980197B101_1856072652 Label:BP_Enemy11 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=3282.240 Y=964.200 Z=-7828.922), Max=(X=3305.500 Y=997.800 Z=-7749.078) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:656C5DE24F3C7EC43FB77A939C57FC06 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E16919801F6B001_2048804320 Label:TileSetGrass3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1868.000 Y=429.000 Z=-7811.000), Max=(X=2708.000 Y=1041.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:2B6FB7D64F1A4EBCA83DC197EADEE780 BaseClass: NativeClass:/Script/Paper2D.PaperTileMapActor Name:PaperTileMapActor_UAID_902E169198019EB101_1124801911 Label:TileSet_Tiles1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-595.000 Y=428.000 Z=-7811.000), Max=(X=245.000 Y=1040.000 Z=-7807.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:B603194A4D0E9AC615843EA0A99BD577 BaseClass:/Game/Enemies/BP_Enemy2.BP_Enemy2_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy2_C_UAID_902E1691980197B101_1317692649 Label:BP_Enemy8 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2962.000 Y=918.600 Z=-7809.000), Max=(X=3015.800 Y=963.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:CC9EB3C849672EF1F1C6FE99816406FD BaseClass: NativeClass:/Script/Paper2D.PaperSpriteActor Name:PaperSpriteActor_UAID_902E169198018ED801_2067774249 Label:Sky3_Sprite SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1528.000 Y=1037.000 Z=-7751.000), Max=(X=4648.000 Y=1277.000 Z=-7741.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-10853.000 Y=428.000 Z=-7872.925), Max=(X=9148.000 Y=1277.000 Z=-7367.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/TestausTaso/Testaus
+----------------------------------------------------------------------------------------------------------------
+Testaus - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 40 
+
+----------------------------------------------------------------------------------------------------------------
+Testaus - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-10853.000 Y=428.000 Z=-7872.925), Max=(X=9148.000 Y=1277.000 Z=-7367.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    2 | Cell Size   25600 | Actor Count   11 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X-1_Y0
+ |   |- Actor Count: 2
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.BlockingVolume_UAID_902E16919801A0B101_2023573271
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/0/BF/7JXXJFQBQYJZE1AHF6TFKA
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.PaperTileMapActor_UAID_902E16919801A1B101_1095671448
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/1/MA/ANITY82XDZHSRFQJI2L6PM
+ |- [+] Content of Cell MainGrid_L0_X0_Y0
+ |   |- Actor Count: 9
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.PaperTileMapActor_UAID_902E16919801FAB001_1827039026
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/1/5B/QGK48A8P8S0TRHHKDF1K9N
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.BP_Camera_C_UAID_902E16919801D7C301_2110055920
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/1/RG/G9D435S06ADG8EZ3KAEXK8
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.PaperTileMapActor_UAID_902E16919801FAB001_1745584025
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/2/I5/J6RARSMC9WFGODE8GFWXKH
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.BlockingVolume_UAID_902E169198011DAF01_2023337066
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/4/CJ/L1TMNN8T8O9RNAX4GQ64V7
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.PaperTileMapActor_UAID_902E16919801BBBA01_2084073487
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/6/WD/0GIEZ5D6JOIMLQBBK6SJYF
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.PaperTileMapActor_UAID_902E16919801F6B001_1824765318
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/9/L0/SP9KD9JCUNGYY01T68IXNF
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.BP_Character_C_UAID_902E1691980138A201_1079428087
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/C/WM/7KRHCY006X9XJX0JTB7KWB
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.PaperTileMapActor_UAID_902E16919801F6B001_2048804320
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/D/XZ/PN2ZB2VIRL776FT2DJP4N1
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.PaperSpriteActor_UAID_902E169198018ED801_2067774249
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/1/8E/KUXW71FO57JG5IZZNU1EE4
+[+] Content of Grid Level 1
+

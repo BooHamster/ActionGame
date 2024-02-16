@@ -1,0 +1,65 @@
+[+] Containers:
+ |- [+] Container: /Game/TestausTaso/Testaus
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:17D7EF6745C10AC67307F298EFBD88FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_902E1691980112A401_1705315516 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5905.000 Y=729.000 Z=-7809.000), Max=(X=4095.000 Y=1029.000 Z=-7809.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- Guid:39028573442F4238F10DF29C3AFABB0E BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_902E16919801E8A601-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7230F67F4BCAE6AFB5669795BF28D8B7 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E1691980160AA01_1998387579 Label:BP_Enemy1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5686.500 Y=812.600 Z=-7809.000), Max=(X=-5642.200 Y=857.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:7CAB04CC414A194356D805AF72F63AC5 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E1691980160AA01_1698749575 Label:BlockingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10853.000 Y=732.000 Z=-7809.000), Max=(X=9147.000 Y=736.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:8B80445E47DB24F5CA03638A996849CD BaseClass:/Game/TestausHahmo/BP_Character.BP_Character_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Character_C_UAID_902E1691980138A201_1079428087 Label:BP_Character SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5846.000 Y=811.000 Z=-7809.000), Max=(X=-5798.200 Y=848.000 Z=-7774.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A5E2B35F44C45B1C56338DB3137883E0 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198017DAD01_1699119847 Label:BlockingVolume3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5292.000 Y=767.000 Z=-7809.000), Max=(X=-5242.000 Y=867.000 Z=-7559.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:A9A279874EF721DE2C78FCA4CA382594 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_902E16919801E8A601_1224383288 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6056.010 Y=173.191 Z=-8334.000), Max=(X=4193.990 Y=1423.191 Z=-7284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- Guid:E2E322184E2197B7ED9F0BBEAEB8CA03 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198018CAD01_1613961493 Label:BlockingVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10852.000 Y=904.000 Z=-7809.000), Max=(X=9148.000 Y=908.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:A5E2B35F44C45B1C56338DB3137883E0 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198017DAD01_1699119847 Label:BlockingVolume3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5292.000 Y=767.000 Z=-7809.000), Max=(X=-5242.000 Y=867.000 Z=-7559.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:A9A279874EF721DE2C78FCA4CA382594 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_UAID_902E16919801E8A601_1224383288 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-6056.010 Y=173.191 Z=-8334.000), Max=(X=4193.990 Y=1423.191 Z=-7284.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:7CAB04CC414A194356D805AF72F63AC5 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E1691980160AA01_1698749575 Label:BlockingVolume2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10853.000 Y=732.000 Z=-7809.000), Max=(X=9147.000 Y=736.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:E2E322184E2197B7ED9F0BBEAEB8CA03 BaseClass: NativeClass:/Script/Engine.BlockingVolume Name:BlockingVolume_UAID_902E169198018CAD01_1613961493 Label:BlockingVolume4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-10852.000 Y=904.000 Z=-7809.000), Max=(X=9148.000 Y=908.000 Z=-7659.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:17D7EF6745C10AC67307F298EFBD88FE BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_902E1691980112A401_1705315516 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5905.000 Y=729.000 Z=-7809.000), Max=(X=4095.000 Y=1029.000 Z=-7809.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:39028573442F4238F10DF29C3AFABB0E BaseClass: NativeClass:/Script/NavigationSystem.RecastNavMesh Name:RecastNavMesh_UAID_902E16919801E8A601-Default Label:RecastNavMesh-Default SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:8B80445E47DB24F5CA03638A996849CD BaseClass:/Game/TestausHahmo/BP_Character.BP_Character_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Character_C_UAID_902E1691980138A201_1079428087 Label:BP_Character SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5846.000 Y=811.000 Z=-7809.000), Max=(X=-5798.200 Y=848.000 Z=-7774.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:7230F67F4BCAE6AFB5669795BF28D8B7 BaseClass:/Game/Enemies/BP_Enemy1.BP_Enemy1_C NativeClass:/Script/Paper2D.PaperCharacter Name:BP_Enemy1_C_UAID_902E1691980160AA01_1998387579 Label:BP_Enemy1 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-5686.500 Y=812.600 Z=-7809.000), Max=(X=-5642.200 Y=857.400 Z=-7769.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 0x0000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-10853.000 Y=729.000 Z=-7809.000), Max=(X=9148.000 Y=1029.000 Z=-7659.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/TestausTaso/Testaus
+----------------------------------------------------------------------------------------------------------------
+Testaus - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+Always loaded Actor Count: 18 
+
+----------------------------------------------------------------------------------------------------------------
+Testaus - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=true, Min=(X=-10853.000 Y=729.000 Z=-7809.000), Max=(X=9148.000 Y=1029.000 Z=-7659.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   25600 | Actor Count    2 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   51200 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell MainGrid_L0_X-1_Y0
+ |   |- Actor Count: 2
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.BP_Character_C_UAID_902E1691980138A201_1079428087
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/C/WM/7KRHCY006X9XJX0JTB7KWB
+ |   |- Actor Path: /Game/TestausTaso/Testaus.Testaus:PersistentLevel.BP_Enemy1_C_UAID_902E1691980160AA01_1998387579
+ |   |- Actor Package: /Game/__ExternalActors__/TestausTaso/Testaus/E/19/A1369W5MH6CI2OQDU1NA0C
+[+] Content of Grid Level 1
+
